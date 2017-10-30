@@ -1,6 +1,6 @@
 {
   "name": "ethical-app-dev",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Development assistant app for the Ethical Framework.",
   "main": "./dist/node/server.js",
   "scripts": {
@@ -13,7 +13,8 @@
     "url": "git+https://github.com/Ethically/ethical-app-dev.git"
   },
   "engines": {
-    "node" : ">=7.6"
+    "node" : ">=7.6",
+    "npm" : ">=3"
   },
   "devDependencies": {
     "babel-plugin-transform-class-properties": "^6.24.1",
